@@ -16,7 +16,7 @@ Mời thầy sử dụng link https://www.kaggle.com/code/minhnewbi/bertopic-ful
 | 3 | Bùi Anh Quân | 23122017 |
 
 ## Các thư viện cần thiết
-pip install bertopic sentence-transformers underthesea langchain transformers scikit-learn gensim umap-learn hdbscan
+pip install bertopic sentence-transformers underthesea langchain transformers scikit-learn gensim umap hdbscan
 
 ## Cách kiểm tra mô hình
 Chạy hết tất cả cell để đảm bảo code chạy đầy đủ.
